@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 278px;
+    padding: 20px 0px 15px 0px;
+}
+
+
+.nav_p{
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.list{
+    display: flex;
+    gap: 15px;
+}
+
+.link{
+    color: #3A3838;
+    text-align: right;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    transition: 0.1s;
+    border-radius: 4px;
+}
+
+.link1{
+    color: #EF4423;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.img{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.main_p{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 350px;
+    height: 380px;
+    flex-shrink: 0;
+
+}
+
+.color1{
+    background: #B71C1C;
+}
+
+.color2{
+    background: #6A1B9A;
+}
+
+.color3{
+    background: #303F9F;
+}
+
+.color4{
+    background: #00695C;
+}
+
+.h1{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 19px;
+    font-weight: 700;
+    padding: 15px 15px 0px 15px;
+}
+
+.page_1{
+    color: #EBEBEB;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 9px 15px 9px 15px;
+}
+
+.main_content_box{
+    color: #3A3838;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.main3_nav_menu{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.main_menu{
+    display: flex;
+    background: #EDEDED;
+    width: 1400px;
+    height: 531px;
+    padding-left: 130px;
+}
+
+
+.h2_nav{
+    color: #3A3838;
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 700;
+    padding: 20px 145px 30px 30px;
+}
+
+.main_p_menu{
+    color: #686868;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 145px 31px 30px;
+}
+
+.nav_manu_p{
+    color: #686868;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-around;
+    background: #3A3838;
+    height: 128px;
+
+    width: 1400px;
+    margin: 50px auto;
+}
+
+.links{
+    color: #FFF;
+    text-align: right;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+
